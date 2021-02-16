@@ -19,6 +19,12 @@
             <scale>0.001 0.001 0.001</scale>
           </mesh>
         </geometry>
+            <material>
+          <script>
+            <name>Gazebo/BuildingFrame</name>
+            <uri>file://media/materials/scripts/gazebo.material</uri>
+          </script>
+        </material>
       </visual>
     </link>
   </model>

@@ -8,6 +8,7 @@
         <geometry>
           <mesh>
             <uri>model://stairs/meshes/stairs.stl</uri>
+            <scale>0.001 0.001 0.001</scale>
           </mesh>
         </geometry>
       </collision>

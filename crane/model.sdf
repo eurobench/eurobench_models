@@ -8,6 +8,7 @@
         <geometry>
           <mesh>
             <uri>model://crane/meshes/crane.stl</uri>
+            <scale>0.001 0.001 0.001</scale>
           </mesh>
         </geometry>
       </collision>

@@ -8,6 +8,7 @@
         <geometry>
           <mesh>
             <uri>model://ramp1/meshes/ramp1.stl</uri>
+            <scale>0.001 0.001 0.001</scale>
           </mesh>
         </geometry>
       </collision>
